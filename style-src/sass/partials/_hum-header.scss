@@ -1,0 +1,22 @@
+.hum-header {
+	.field-name-field-logo {
+		display: inline-block;
+	}
+	.group-right {
+		float: right;
+		margin-top: 20px;
+		.field-name-field-link-to-signin {
+			display: inline-block;
+			margin-right: 20px;
+		}
+		.field-name-field-link-to-order {
+			display: inline-block;
+		}
+
+	}	
+}
+
+@include breakpoint(max-width $breakWidth) {
+	// screen width smaller or equal than $breakWidth
+
+}

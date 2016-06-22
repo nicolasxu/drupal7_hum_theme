@@ -1,0 +1,15 @@
+.hum-btn {
+	font-size: 1.1875rem;
+	font-weight: 500;
+	line-height: 1;
+	background-color: rgb(130, 206, 172);
+	color: rgb(255, 255, 255);
+	display: inline-block;
+	text-transform: lowercase;
+	padding: 9pt 30px;
+	transition: all 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
+	vertical-align: baseline;
+	&:hover {
+		text-decoration: none;
+	}
+}
