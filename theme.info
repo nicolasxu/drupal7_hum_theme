@@ -3,7 +3,7 @@ description = Theme developed after https://www.hum.com/ theme
 core = 7.x
 ;base theme = bartik
 	;Set parent theme if it is a sub theme
-;engine = phptemplate
+engine = phptemplate
 	;Drupal 7, this line is no longer necessary because PHPTemplate is assumed by default.
 	;Drupal 6, required
 

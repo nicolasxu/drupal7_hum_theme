@@ -162,3 +162,26 @@ a:hover {
   font-weight: 500;
   margin-right: 40px;
 }
+
+/* line 1, style-src/sass/partials/_menu.scss */
+.hum-menu {
+  background-color: #f1f1f1;
+}
+/* line 3, style-src/sass/partials/_menu.scss */
+.hum-menu ul li {
+  display: inline-block;
+  height: 42px;
+  margin-right: 25px;
+  padding: 9pt 0 10px;
+  margin-left: 20px;
+}
+/* line 9, style-src/sass/partials/_menu.scss */
+.hum-menu ul li a {
+  color: #4b4b4b;
+  font-size: 20px;
+  font-weight: normal;
+}
+/* line 13, style-src/sass/partials/_menu.scss */
+.hum-menu ul li a:hover {
+  color: #82ceac;
+}
