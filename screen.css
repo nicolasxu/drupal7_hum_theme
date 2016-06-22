@@ -151,8 +151,14 @@ a:hover {
 .hum-header .group-right .field-name-field-link-to-signin {
   display: inline-block;
   margin-right: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  margin-right: 40px;
 }
-/* line 12, style-src/sass/partials/_hum-header.scss */
+/* line 15, style-src/sass/partials/_hum-header.scss */
 .hum-header .group-right .field-name-field-link-to-order {
   display: inline-block;
+  font-size: 19px;
+  font-weight: 500;
+  margin-right: 40px;
 }

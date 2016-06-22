@@ -79,10 +79,7 @@
         <?php if ($page['header']): ?>
             <?php print render($page['header']); ?>
         <?php endif; ?>
-        <div class="header-links center-axis-y">
-          <span class="link-area"><a href="/user/">sign in</a></span>
-          <span class="buy-area"><a class="btn" href="/user/">order now</a></span>
-        </div>
+    
       </div>
       <div class="hum-menu">
         <div class="nav-menu center-axis-y ">
